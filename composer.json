@@ -14,11 +14,17 @@
             "email": "mark.sagikazar@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ArthurJam/discovery"
+        }
+    ],
     "require": {
         "php": "^5.4 || ^7.0",
         "php-http/httplug": "^1.0",
         "guzzlehttp/guzzle": "^5.1",
-        "php-http/discovery": "^1.0"
+        "php-http/discovery": "1.2.2"
     },
     "require-dev": {
         "ext-curl": "*",
