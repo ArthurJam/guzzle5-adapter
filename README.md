@@ -1,4 +1,4 @@
-# Guzzle 5 HTTP Adapter
+# Guzzle 5 HTTP Adapter PHP 5.4 compatible
 
 [![Latest Version](https://img.shields.io/github/release/php-http/guzzle5-adapter.svg?style=flat-square)](https://github.com/php-http/guzzle5-adapter/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -7,7 +7,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/php-http/guzzle5-adapter.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-http/guzzle5-adapter)
 [![Total Downloads](https://img.shields.io/packagist/dt/php-http/guzzle5-adapter.svg?style=flat-square)](https://packagist.org/packages/php-http/guzzle5-adapter)
 
-**Guzzle 5 HTTP Adapter.**
+**Guzzle 5 HTTP Adapter PHP 5.4 compatible**
 
 
 ## Install
