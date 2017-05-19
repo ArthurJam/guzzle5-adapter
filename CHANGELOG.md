@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.1 - 2017-05-19
+
+### Changed
+
+- Add PHP 5.4 support
+
 
 ## 1.0.0 - 2016-07-18
 

@@ -1,11 +1,8 @@
 # Guzzle 5 HTTP Adapter PHP 5.4 compatible
 
-[![Latest Version](https://img.shields.io/github/release/php-http/guzzle5-adapter.svg?style=flat-square)](https://github.com/php-http/guzzle5-adapter/releases)
+[![Latest Version](https://img.shields.io/github/release/ArthurJam/guzzle5-adapter.svg?style=flat-square)](https://github.com/ArthurJam/guzzle5-adapter/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/travis/php-http/guzzle5-adapter.svg?style=flat-square)](https://travis-ci.org/php-http/guzzle5-adapter)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/php-http/guzzle5-adapter.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-http/guzzle5-adapter)
-[![Quality Score](https://img.shields.io/scrutinizer/g/php-http/guzzle5-adapter.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-http/guzzle5-adapter)
-[![Total Downloads](https://img.shields.io/packagist/dt/php-http/guzzle5-adapter.svg?style=flat-square)](https://packagist.org/packages/php-http/guzzle5-adapter)
+[![Build Status](https://img.shields.io/travis/ArthurJam/guzzle5-adapter.svg?style=flat-square)](https://travis-ci.org/ArthurJam/guzzle5-adapter)
 
 **Guzzle 5 HTTP Adapter PHP 5.4 compatible**
 
